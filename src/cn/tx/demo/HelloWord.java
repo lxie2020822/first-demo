@@ -15,11 +15,6 @@ public class HelloWord {
         System.out.println(d);
         System.out.println(e);
         System.out.println(f);
-        System.out.println("helloword");
-        System.out.println("helloword");
-        System.out.println("helloword");
-        System.out.println("helloword");
-        System.out.println("helloword");
         System.out.println("hehe");
     }
 }
